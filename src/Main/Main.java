@@ -1,6 +1,4 @@
 package Main;
-import javafx.print.PageLayout;
-
 import java.util.Scanner;
 
 public class Main {
